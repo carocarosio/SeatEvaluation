@@ -1,2 +1,2 @@
 # SeatEvaluation
-Technical interview from SEAT
+technical interview from SEAT
