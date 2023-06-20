@@ -6,7 +6,7 @@ Technical interview from SEAT
 * To have cloned this repo into a local directory
 ## Installation
 * Open the cloned project in Visual Studio Code
-* In Visual Studio Code go to Terminal tab or open a new terminal
+* In Visual Studio Code go to terminal tab or open a new terminal.
 In order to use Cypress it's necessary to install it via npm using the following command:
 ```bash
 npm install cypress --save-dev
