@@ -13,7 +13,7 @@ Make sure you have all the system requirements: https://docs.cypress.io/guides/g
 npm install cypress --save-dev
 ```
 This will install Cypress locally as a dev dependency for your project.
-Make sure that you have already run npm init or have a node_modules folder or package.json file in the root of your project to ensure cypress is installed in the correct directory.
+Make sure that you have a node_modules folder or package.json file in the root of your project to ensure cypress is installed in the correct directory.
 ## Running tests with Cypress
 * Option 1: Run tests in Cypress Window/UI
 ```bash
