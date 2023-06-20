@@ -1,9 +1,9 @@
 # SeatEvaluation
 Technical interview from SEAT
 ## Pre conditions
-* To install NodeJS
-* To install Visual Studio Code
-* To clone this repo into a local directory
+* To have installed NodeJS
+* To have installed Visual Studio Code
+* To have cloned this repo into a local directory
 ## Installation
 * Open the cloned project in Visual Studio Code
 * In Visual Studio Code go to Terminal tab or open a new terminal
