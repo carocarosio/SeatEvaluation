@@ -1,5 +1,6 @@
 # SeatEvaluation
-Technical interview from SEAT
+Technical interview from SEAT.
+
 Make sure you have all the system requirements: https://docs.cypress.io/guides/getting-started/installing-cypress#System-requirements
 ## Pre requisistes
 * Download and Install NodeJS 
